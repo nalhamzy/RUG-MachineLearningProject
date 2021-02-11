@@ -1,4 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Dillinger.md</title><style></style></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="ML_Project_0"></a>ML Project</h1>
 <p class="has-line-data" data-line-start="3" data-line-end="4">The file ml_model.ipynb contains the implementation of all models and helper functions.</p>
 <ul>
